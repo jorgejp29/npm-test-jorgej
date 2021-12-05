@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-jorgej",
+  "version": "1.0.0",
+  "description": "Repositorio para npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgejp29/npm-test-jorgej.git"
+  },
+  "author": "Jorge M Jaimes Ponce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgejp29/npm-test-jorgej/issues"
+  },
+  "homepage": "https://github.com/jorgejp29/npm-test-jorgej#readme"
+}
